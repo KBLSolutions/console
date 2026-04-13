@@ -4,7 +4,7 @@ import alert from "./alert.js";
 import say from "./speak.js";
 
 const USER = "silva";
-const PW = "zdanie73";
+const PW = "yakrevetko";
 
 /** Boot screen */
 export async function boot() {
